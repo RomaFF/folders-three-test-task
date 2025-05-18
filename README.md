@@ -14,12 +14,6 @@ pnpm dev
 bun dev
 ```
 
-![image](https://github.com/user-attachments/assets/aca5ea3a-c2ad-4363-9bd7-674855db724f)
-
-![image](https://github.com/user-attachments/assets/a8505657-91cd-4e79-8511-d7f1f18fabec)
-
-
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
@@ -40,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+Working examples:
+
+![image](https://github.com/user-attachments/assets/5e936af6-38f5-4a39-a1fb-c1e73a0f3cf4)
+
+![image](https://github.com/user-attachments/assets/52fa5216-de01-4022-9580-dbc2f70c2fd1)
+
+![image](https://github.com/user-attachments/assets/02ff85a9-caa4-4959-9826-22d90ff1446f)
