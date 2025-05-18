@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![image](https://github.com/user-attachments/assets/736e3aba-2b6c-4ab7-8571-f3a60f94f09e)This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
@@ -13,6 +13,12 @@ pnpm dev
 # or
 bun dev
 ```
+
+![image](https://github.com/user-attachments/assets/aca5ea3a-c2ad-4363-9bd7-674855db724f)
+
+![image](https://github.com/user-attachments/assets/a8505657-91cd-4e79-8511-d7f1f18fabec)
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
